@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maelxg
-- 👀 I’m interested in C# (.Net Team :D)
+- 👀 I’m interested in C# (.Net Team)
 - 🌱 I’m currently learning, still have a lot of work to do.
 - 📫 You can reach me on @LinkedIn https://www.linkedin.com/in/ismaellucas/
 
